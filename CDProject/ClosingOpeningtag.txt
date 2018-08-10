@@ -1,0 +1,2 @@
+---Closing/Opening tag Symbol table---
+['img', 'tag', 'ct/ot', 17]
